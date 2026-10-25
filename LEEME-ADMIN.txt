@@ -1,0 +1,11 @@
+MODO ADMINISTRADOR
+1. Abra el sitio y entre a  index.html#admin  (o use "Acceso administrador" en el pie de página).
+2. Contraseña inicial: farallon2025  (cámbiela en Ajustes generales > Nueva contraseña).
+3. Desde el panel puede agregar, editar y eliminar artículos, glifos, rutas y tarjetas,
+   y cambiar textos, portada, video, datos y pie de página. Con la sesión iniciada también
+   aparece un botón ✎ sobre cada tarjeta del sitio.
+
+PUBLICAR LOS CAMBIOS PARA TODOS LOS VISITANTES
+Los cambios se guardan en el navegador del administrador. Para que los vea el público:
+1. En el panel pulse "Exportar contenido" (descarga contenido.json).
+2. Copie ese archivo a la carpeta  data/  del proyecto (data/contenido.json) y súbalo al sitio/GitHub.
